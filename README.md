@@ -15,13 +15,19 @@ and exploring how technology can solve real-world problems.
 
 Hi, I'm **Syeda Haniya Rida**, an Electronics & Communication Engineering student from India with a strong interest in software development.
 
-🎓 Currently pursuing **B.Tech in Electronics & Communication Engineering
-💻 Focused on building a strong foundation in **Software Development and Full-Stack Development
-🧠 Currently strengthening **DSA, SQL, Development skills and Computer Science fundamentals**
+🎓 Currently pursuing **B.Tech in Electronics & Communication Engineering**
+
+💻 Focused on building a strong foundation in **Software Development and Full-Stack Development**
+
+🧠 Currently strengthening **DSA, SQL, development skills and Computer Science fundamentals**
+
 🌐 Building web applications and practical software projects using modern development technologies
+
 📊 Exploring **SQL and data analytics** through real-world datasets and business-focused projects
-⚡ Also interested in combining software with **embedded systems and electronics**
-🎯 Working towards becoming a skilled software developer and preparing for software engineering opportunities
+
+⚡ Also interested in combining **software with embedded systems and electronics**
+
+🎯 Working towards becoming a skilled **software developer** and preparing for software engineering opportunities
 
 I believe in **mastering fundamentals, building practical projects, and continuously improving through hands-on problem solving.**
 
@@ -35,11 +41,11 @@ I believe in **mastering fundamentals, building practical projects, and continuo
 
 ### 🌐 Web Development
 
-`HTML` `CSS` `JavaScript` `React.js` `Node.js`  `MongoDB`
+`HTML` `CSS` `JavaScript` `React.js` `Node.js` `Express.js` `MongoDB`
 
 ### 🧠 Computer Science
 
-`DSA` `Computer Fundamentals`
+`DSA` `Operating Systems` `Computer Fundamentals`
 
 ### ⚙️ Tools & Deployment
 
@@ -68,7 +74,7 @@ A full-stack platform designed to support communication and coordination between
 * Volunteer participation
 * Contribution and support system
 
-**Tech Stack:** `React.js` `Node.js`  `MongoDB`
+**Tech Stack:** `React.js` `Node.js` `Express.js` `MongoDB`
 
 ---
 
@@ -140,9 +146,15 @@ An Arduino-based embedded project designed to automate plant watering based on s
 ## 🧠 Currently Learning
 
 💻 **Data Structures & Algorithms**
+
 📊 **SQL & Data Analytics**
-🗄️ **Computer Fundamentals**
+
+🖥️ **Operating Systems**
+
+🗄️ **DBMS & Computer Fundamentals**
+
 🌐 **Full-Stack Web Development**
+
 🧩 **Problem Solving**
 
 ---
@@ -160,36 +172,12 @@ An Arduino-based embedded project designed to automate plant watering based on s
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=syedarida06&show_icons=true&hide_border=true&rank_icon=github" />
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedarida06&layout=compact&hide_border=true" />
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
-
-</div>
-
----
-
-## 🎯 Goals
+## 🎯 2026 Goals
 
 * [ ] Strengthen DSA & problem solving
 * [ ] Build stronger full-stack projects
 * [ ] Improve SQL and data analytics skills
-* [ ] Strengthen OS , DBMS , CN and computer fundamentals
+* [ ] Strengthen OS, DBMS and computer fundamentals
 * [ ] Contribute to open-source projects
 * [ ] Build more real-world software projects
 * [ ] Secure a software development internship
@@ -209,9 +197,9 @@ An Arduino-based embedded project designed to automate plant watering based on s
 
 **Always learning. Always building. Always improving.**
 
-📧 **Email:** ridasyeda130@gmail.com
+📧 **Email:** Add your email here
 
-💼 **LinkedIn:** linkedin.com/in/rida-86a04b385
+💼 **LinkedIn:** Add your LinkedIn here
 
 <br>
 
