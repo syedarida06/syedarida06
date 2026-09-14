@@ -1,141 +1,220 @@
-<div align="center">👋 Hi, I'm Syeda Haniya Rida
+<div align="center">
 
-"ECE Student" • "Software Developer in Progress" • "Problem Solver"
+# 👋 Hi, I'm Syeda Haniya Rida
 
-Building practical projects, strengthening DSA & CS fundamentals,
-and turning ideas into working software.
+**ECE Student • Software Developer in Progress • Problem Solver**
 
-<br>""GitHub" (https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white)" (https://github.com/syedarida06)
+Building practical software projects, strengthening programming and DSA fundamentals,
+and exploring how technology can solve real-world problems.
 
-</div>---
-
-🚀 About Me
-
-- 🎓 B.Tech — Electronics & Communication Engineering
-- 💻 Exploring Software Development & Full-Stack Web Development
-- 🧠 Currently focused on DSA, Operating Systems, SQL & Computer Fundamentals
-- 🛠️ Building projects that combine problem solving + practical applications
-- 📈 Continuously improving my programming and development skills
-- 🎯 Preparing for software engineering opportunities
+</div>
 
 ---
 
-🧰 Tech I Work With
+## 🚀 About Me
 
-💻 Programming
+Hi, I'm **Syeda Haniya Rida**, an Electronics & Communication Engineering student from India with a strong interest in software development.
 
-"Python" "C" "C++" "SQL"
+🎓 Currently pursuing **B.Tech in Electronics & Communication Engineering**
+💻 Focused on building a strong foundation in **Software Development and Full-Stack Development**
+🧠 Currently strengthening **DSA, SQL, Development skills and Computer Science fundamentals**
+🌐 Building web applications and practical software projects using modern development technologies
+📊 Exploring **SQL and data analytics** through real-world datasets and business-focused projects
+⚡ Also interested in combining software with **embedded systems and electronics**
+🎯 Working towards becoming a skilled software developer and preparing for software engineering opportunities
 
-🌐 Web Development
-
-"HTML" "CSS" "JavaScript" "React.js" "Node.js" "Express.js" "MongoDB"
-
-🧠 Core
-
-"DSA" "Operating Systems" "Computer Fundamentals"
-
-🔧 Tools & Deployment
-
-"Git" "GitHub" "VS Code" "Vercel"
-
-⚡ Embedded
-
-"Arduino Uno" "Microcontroller Programming"
+I believe in **mastering fundamentals, building practical projects, and continuously improving through hands-on problem solving.**
 
 ---
 
-💡 Featured Projects
+## 🚀 Tech Stack
 
-🚨 ResQNet
+### 💻 Programming
 
-Multi-Disaster Emergency Management Platform
+`Python` `C` `C++` `SQL`
 
-A platform designed to connect citizens, responders, volunteers and administrators during disasters through emergency reporting, SOS alerts, response coordination and live monitoring.
+### 🌐 Web Development
 
-Built with: "React.js" "Node.js" "Express.js" "MongoDB"
+`HTML` `CSS` `JavaScript` `React.js` `Node.js`  `MongoDB`
 
----
+### 🧠 Computer Science
 
-📄 ResumeIQ
+`DSA` `Computer Fundamentals`
 
-Resume Analysis & Insights Platform
+### ⚙️ Tools & Deployment
 
-A web application focused on analyzing resumes and presenting structured insights to help users understand and improve their resumes.
+`Git` `GitHub` `VS Code` `Vercel`
 
-Built with: "HTML" "CSS" "JavaScript"
+### 🔌 Embedded
 
----
-
-🌐 Empower
-
-Social Impact Platform
-
-A responsive frontend platform created to showcase social-impact initiatives, spread awareness and provide an organized digital space for community participation.
-
-Built with: "HTML" "CSS" "JavaScript"
+`Arduino Uno` `Microcontroller Programming`
 
 ---
 
-📊 E-Commerce SQL Analytics
+## 💡 Featured Projects
 
-Business-Focused Data Analysis Project
+### 🚨 ResQNet
 
-An SQL analytics project using the Olist Brazilian E-Commerce Public Dataset to explore revenue, sales trends, customer behavior, product performance, regional revenue and delivery satisfaction.
+**Multi-Disaster Emergency Management Platform**
 
-Built with: "SQL"
+A full-stack platform designed to support communication and coordination between **citizens, responders, volunteers and administrators** during disasters.
 
----
+**Key Features:**
 
-🧠 What I'm Currently Working On
+* Emergency reporting and SOS alerts
+* Disaster-based priority handling
+* Responder assignment and status tracking
+* Live emergency monitoring
+* Volunteer participation
+* Contribution and support system
 
-DSA                    █████████░  Building consistency
-SQL                    █████████░  Strengthening analytics
-Operating Systems      ███████░░░  Learning
-Computer Fundamentals  ███████░░░  Learning
-Web Development        ████████░░  Building projects
-Problem Solving        ████████░░  Improving
-
----
-
-📜 Certifications
-
-Certification| Platform
-MATLAB Onramp| MathWorks
-Simulink Onramp| MathWorks
-Basics of Python| Infosys Springboard
-Introduction to Generative AI| Simplilearn
-HTML Hero| Udemy
-Introduction to Data Science| Cisco Networking Academy
+**Tech Stack:** `React.js` `Node.js`  `MongoDB`
 
 ---
 
-📊 GitHub Activity
+### 📄 ResumeIQ
 
-<div align="center">"GitHub Stats" (https://github-readme-stats.vercel.app/api?username=syedarida06&show_icons=true&hide_border=true&rank_icon=github)
+**Resume Analysis & Insights Platform**
 
-"Top Languages" (https://github-readme-stats.vercel.app/api/top-langs/?username=syedarida06&layout=compact&hide_border=true)
+A web application designed to analyze resumes and provide **structured insights** to help users understand and improve their resumes.
 
-</div>---
+**Focus Areas:**
 
-🎯 2026 Goals
+* Resume analysis
+* Structured insights
+* Resume improvement
+* Visual presentation of results
 
-- [ ] Strengthen DSA & problem solving
-- [ ] Master SQL for real-world analytics
-- [ ] Build stronger full-stack projects
-- [ ] Strengthen OS, DBMS & other CS fundamentals
-- [ ] Contribute to open-source projects
-- [ ] Secure a software development internship
-- [ ] Become placement-ready for software roles
+**Tech Stack:** `HTML` `CSS` `JavaScript`
 
 ---
 
-🤝 Let's Connect
+### 🌐 Empower
 
-<div align="center">Always learning. Always building. Always improving.
+**Social Impact Platform**
 
-📧 Email: Add your email here
-💼 LinkedIn: Add your LinkedIn here
+A responsive frontend platform designed to showcase social-impact initiatives, spread awareness and provide an organized digital space for community participation.
 
-<br>⭐ Thanks for visiting my profile!
+**Features:**
+
+* Home and About sections
+* Social-impact initiatives
+* Volunteer participation
+* Mentor and skill-trainer participation
+* Donation support
+* Responsive interface
+
+**Tech Stack:** `HTML` `CSS` `JavaScript`
+
+---
+
+### 📊 E-Commerce SQL Analytics
+
+**Business-Focused SQL Analytics Project**
+
+An SQL analytics project using the **Olist Brazilian E-Commerce Public Dataset** to analyze e-commerce sales, customer behavior, product performance, regional revenue and delivery satisfaction.
+
+**Analysis Includes:**
+
+* Overall revenue and monthly sales trends
+* Month-over-month revenue growth
+* Top-performing product categories
+* Revenue across Brazilian states
+* Repeat customer rate
+* Delivery performance and customer reviews
+
+**Tech Stack:** `SQL`
+
+---
+
+### 🌱 Arduino Plant Watering System
+
+**Automated Plant Watering System**
+
+An Arduino-based embedded project designed to automate plant watering based on soil moisture conditions.
+
+**Tech Stack:** `Arduino Uno` `Sensors` `Microcontroller Programming`
+
+---
+
+## 🧠 Currently Learning
+
+💻 **Data Structures & Algorithms**
+📊 **SQL & Data Analytics**
+🗄️ **Computer Fundamentals**
+🌐 **Full-Stack Web Development**
+🧩 **Problem Solving**
+
+---
+
+## 📜 Certifications
+
+| Certification                 | Platform                 |
+| ----------------------------- | ------------------------ |
+| MATLAB Onramp                 | MathWorks                |
+| Simulink Onramp               | MathWorks                |
+| Basics of Python              | Infosys Springboard      |
+| Introduction to Generative AI | Simplilearn              |
+| HTML Hero                     | Udemy                    |
+| Introduction to Data Science  | Cisco Networking Academy |
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=syedarida06&show_icons=true&hide_border=true&rank_icon=github" />
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedarida06&layout=compact&hide_border=true" />
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+
+</div>
+
+---
+
+## 🎯 Goals
+
+* [ ] Strengthen DSA & problem solving
+* [ ] Build stronger full-stack projects
+* [ ] Improve SQL and data analytics skills
+* [ ] Strengthen OS , DBMS , CN and computer fundamentals
+* [ ] Contribute to open-source projects
+* [ ] Build more real-world software projects
+* [ ] Secure a software development internship
+* [ ] Become placement-ready for software engineering roles
+
+---
+
+## ✨ Quote I Believe In
+
+> **"Learn the fundamentals. Build real projects. Solve problems. Keep improving."**
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+**Always learning. Always building. Always improving.**
+
+📧 **Email:** ridasyeda130@gmail.com
+
+💼 **LinkedIn:** linkedin.com/in/rida-86a04b385
+
+<br>
+
+⭐ **Thanks for visiting my profile!**
 
 </div>
