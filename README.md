@@ -41,11 +41,11 @@ I believe in **mastering fundamentals, building practical projects, and continuo
 
 ### 🌐 Web Development
 
-`HTML` `CSS` `JavaScript` `React.js` `Node.js` `Express.js` `MongoDB`
+`HTML` `CSS` `JavaScript` `React.js` `Node.js` `MongoDB`
 
 ### 🧠 Computer Science
 
-`DSA` `Operating Systems` `Computer Fundamentals`
+`DSA` `Computer Fundamentals`
 
 ### ⚙️ Tools & Deployment
 
@@ -149,8 +149,6 @@ An Arduino-based embedded project designed to automate plant watering based on s
 
 📊 **SQL & Data Analytics**
 
-🖥️ **Operating Systems**
-
 🗄️ **DBMS & Computer Fundamentals**
 
 🌐 **Full-Stack Web Development**
@@ -172,12 +170,12 @@ An Arduino-based embedded project designed to automate plant watering based on s
 
 ---
 
-## 🎯 2026 Goals
+## 🎯  Goals
 
 * [ ] Strengthen DSA & problem solving
 * [ ] Build stronger full-stack projects
 * [ ] Improve SQL and data analytics skills
-* [ ] Strengthen OS, DBMS and computer fundamentals
+* [ ] Strengthen computer fundamentals
 * [ ] Contribute to open-source projects
 * [ ] Build more real-world software projects
 * [ ] Secure a software development internship
@@ -197,9 +195,9 @@ An Arduino-based embedded project designed to automate plant watering based on s
 
 **Always learning. Always building. Always improving.**
 
-📧 **Email:** Add your email here
+📧 **Email:** ridasyeda130@gmail.com
 
-💼 **LinkedIn:** Add your LinkedIn here
+💼 **LinkedIn:** linkedin.com/in/rida-86a04b385
 
 <br>
 
