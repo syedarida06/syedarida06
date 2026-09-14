@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Syeda Haniya Rida
 
-**ECE Student • Software Developer in Progress • Problem Solver**
+**ECE Student • Aspiring Software Professional • Tech Enthusiast**
 
 Building practical software projects, strengthening programming and DSA fundamentals,
 and exploring how technology can solve real-world problems.
@@ -13,7 +13,7 @@ and exploring how technology can solve real-world problems.
 
 ## 🚀 About Me
 
-Hi, I'm **Syeda Haniya Rida**, an Electronics & Communication Engineering student from India with a strong interest in software development.
+Hi, I'm **Syeda Haniya Rida**, an Electronics & Communication Engineering student with a strong interest in software and technology.
 
 🎓 Currently pursuing **B.Tech in Electronics & Communication Engineering**
 
@@ -149,7 +149,7 @@ An Arduino-based embedded project designed to automate plant watering based on s
 
 📊 **SQL & Data Analytics**
 
-🗄️ **DBMS & Computer Fundamentals**
+🗄️ **Computer Fundamentals**
 
 🌐 **Full-Stack Web Development**
 
@@ -170,16 +170,19 @@ An Arduino-based embedded project designed to automate plant watering based on s
 
 ---
 
-## 🎯  Goals
+## 🎯 Goals
 
-* [ ] Strengthen DSA & problem solving
-* [ ] Build stronger full-stack projects
-* [ ] Improve SQL and data analytics skills
-* [ ] Strengthen computer fundamentals
+* [ ] Strengthen DSA & problem-solving skills
+* [ ] Develop advanced full-stack projects
+* [ ] Enhance SQL and data analytics skills
+* [ ] Strengthen computer science fundamentals
+* [ ] Deepen knowledge of Electronics & Communication Engineering
+* [ ] Develop practical skills in embedded systems and emerging technologies
 * [ ] Contribute to open-source projects
-* [ ] Build more real-world software projects
-* [ ] Secure a software development internship
-* [ ] Become placement-ready for software engineering roles
+* [ ] Build impactful real-world technology solutions
+* [ ] Gain industry experience through internships
+* [ ] Become industry-ready for software and technology roles
+
 
 ---
 
