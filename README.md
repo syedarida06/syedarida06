@@ -188,7 +188,7 @@ An Arduino-based embedded project designed to automate plant watering based on s
 
 ## ✨ Quote I Believe In
 
-> **"Learn the fundamentals. Build real projects. Solve problems. Keep improving."**
+> **“Learn with purpose . Build with intent . Solve with impact.”**
 
 ---
 
