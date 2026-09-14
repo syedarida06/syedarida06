@@ -15,8 +15,8 @@ and exploring how technology can solve real-world problems.
 
 Hi, I'm **Syeda Haniya Rida**, an Electronics & Communication Engineering student from India with a strong interest in software development.
 
-🎓 Currently pursuing **B.Tech in Electronics & Communication Engineering**
-💻 Focused on building a strong foundation in **Software Development and Full-Stack Development**
+🎓 Currently pursuing **B.Tech in Electronics & Communication Engineering
+💻 Focused on building a strong foundation in **Software Development and Full-Stack Development
 🧠 Currently strengthening **DSA, SQL, Development skills and Computer Science fundamentals**
 🌐 Building web applications and practical software projects using modern development technologies
 📊 Exploring **SQL and data analytics** through real-world datasets and business-focused projects
