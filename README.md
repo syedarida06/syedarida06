@@ -197,10 +197,15 @@ An Arduino-based embedded project designed to automate plant watering based on s
 
 📧 **Email:** ridasyeda130@gmail.com
 
-💼 **LinkedIn:** linkedin.com/in/rida-86a04b385
-
 <br>
+
+<a href="https://www.linkedin.com/in/rida-86a04b385/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<br><br>
 
 ⭐ **Thanks for visiting my profile!**
 
 </div>
+
